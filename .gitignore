@@ -1,0 +1,11 @@
+*
+
+# Files
+!.gitignore
+!README.md
+
+# Folders
+!backend/
+!backend/**
+!frontend/
+!frontend/**
