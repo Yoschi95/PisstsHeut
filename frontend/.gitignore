@@ -1,0 +1,14 @@
+*
+
+# Files
+!.gitignore
+!.prettierignore
+!.prettierrc
+!package.json
+!package-lock.json
+!index.html
+!index.js
+
+# Folders
+!src/
+!src/**
